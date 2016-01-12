@@ -1,3 +1,4 @@
+#+STARTUP: inlineimages
 KR0001	00040519		所	[[file:images/KR0001.png]]
 KR0002	00039893		若	[[file:images/KR0002.png]]
 KR0003	00039566		說	[[file:images/KR0003.png]]
